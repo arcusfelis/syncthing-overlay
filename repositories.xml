@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[syncthing-overlay]]></name>
+    <description><![CDATA[Overlay for Syncthing only]]></description>
+    <homepage>https://github.com/arcusfelis/syncthing-overlay</homepage>
+    <owner>
+      <email>arcusfelis@gmail.com</email>
+      <name><![CDATA[Michael Uvarov]]></name>
+    </owner>
+    <source type="git">git://github.com/arcusfelis/syncthing-overlay.git</source>
+    <feed></feed>
+  </repo>
+</repositories>
